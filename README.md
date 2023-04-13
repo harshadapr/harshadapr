@@ -28,4 +28,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harshadapr&icon=0&color=12)](https://visitcount.itsvg.in)
+<a href="https://github.com/harshadapr?tab=followers"><img src="https://img.shields.io/github/followers/dilasathapa?label=Followers&style=social" alt="GitHub Badge"></a>
 
